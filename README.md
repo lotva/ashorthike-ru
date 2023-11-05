@@ -1,10 +1,18 @@
-# Сборник переводов A Short Hike на русский язык
+# Перевод A Short Hike на русский язык
 
-Содержит мой перевод A Short Hike. Первая играбельная версия, переведены 100% текста. Авторский стиль сохранён: это фристайл без особой пунктуации.
+Репозиторий содержит перевод игры [A Short Hike](https://ashorthike.com) — внутри таблица и шрифт.
 
-Будет добавлена коллективная версия.
+Чтобы поиграть на версии 1.11.1 и новее:
+1. Откройте папку с данными игры: `E:\games\AShortHike\​​AShortHike_Data`
+2. Скопируйте сюда файл `LANG_Russian.yarn_lines.csv`
+3. Запустите игру и переключите язык: `Options → Languages → Russian`
 
-Как поиграть:
-1. Откройте папку игры
-2. Сохраните в подпапку `AShortHike_Data` файл `LANG_Russian.yarn_lines.csv`
-3. Запустите игру и выберите перевод: Options → Languages → Russian
+На старых версиях:
+1. Откройте папку с данными игры: `E:\games\AShortHike\​AShortHike_Data`
+2. Скопируйте сюда файл `old\LANG_Russian.yarn_lines.csv`
+3. Скопируйте с заменой файлы из `CyrillicNew` в `AShortHike_Data\StreamingAssets\​aa\​Windows`
+4. Запустите игру и переключите язык: `Options → Languages → Russian`
+
+## Превью
+
+https://github.com/lotva/ashorthike-ru/assets/80269288/f31da50f-acbd-40d1-abb6-0ba37f0bbc9d
